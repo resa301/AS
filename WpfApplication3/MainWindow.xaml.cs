@@ -24,5 +24,10 @@ namespace WpfApplication3
         {
             InitializeComponent();
         }
+
+        private void karthik_Click(object sender, RoutedEventArgs e)
+        {
+            MessageBox.Show("Added by Karthik");
+        }
     }
 }
